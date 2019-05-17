@@ -1,0 +1,16 @@
+PODS:
+  - CountryList (1.1)
+
+DEPENDENCIES:
+  - CountryList
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CountryList
+
+SPEC CHECKSUMS:
+  CountryList: ad58cd670c4ecab6bb014abebc12e63f619174b2
+
+PODFILE CHECKSUM: 132652ee931d06b72749020e5db88564d6aac73c
+
+COCOAPODS: 1.6.1

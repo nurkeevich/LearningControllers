@@ -1,0 +1,6 @@
+framework module Pods_LearningControllers {
+  umbrella header "Pods-LearningControllers-umbrella.h"
+
+  export *
+  module * { export * }
+}
